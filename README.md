@@ -1,2 +1,2 @@
 # todo-list-js
-A To-Do List web application that allows users to add, edit, delete, and track their daily tasks, helping improve productivity and organization.
+A To-Do List web application that allows users to add, edit, delete, and track their daily tasks, helping improve productivity and organization.The application focuses on simplicity, usability, and a clean interface to enhance productivity.This project demonstrates core web development concepts such as DOM manipulation, event handling, and dynamic data updates, making it a great addition to a developer portfolio.
